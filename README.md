@@ -11,3 +11,5 @@ by Construkter
 
 ## Other Events
 - Delete and warn Bad Words
+
+  # You have to set your own alerting Channel ID's in the PY File
